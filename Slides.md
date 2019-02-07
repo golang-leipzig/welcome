@@ -47,6 +47,7 @@ Join forces, combine Go and Cloud, just start and see where this goes.
 
 * [https://go-meetups.appspot.com/](https://go-meetups.appspot.com/), 235211 people, 11411 in Germany (2065 in Berlin, 23 in Aschaffenburg)
 * 43 in Leipzig
+* [gophercount](https://research.swtch.com/gophercount)
 
 ----
 
