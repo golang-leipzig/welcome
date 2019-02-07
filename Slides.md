@@ -60,10 +60,24 @@ From [https://www.statista.com/statistics/270811/cloud-computing-revenue-worldwi
 
 ----
 
+# Cloud
+
+The landscape:
+
+* [https://landscape.cncf.io/](https://landscape.cncf.io/)
+
+----
+
+# Wrap up
+
+> Our goal is to establish a place, where people from all backgrounds interested in the Go programming language and various cloud technologies can meet, learn, share experiences, present, discuss and network.
+> We aim to be a welcoming community, respecting Gopher values, as outlined here: https://golang.org/conduct
+
+----
+
 # Today
 
 * past, present and future use of Go and Cloud
 * ideas for presentations, workshops
 * beer!
-
 
