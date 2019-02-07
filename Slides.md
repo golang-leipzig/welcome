@@ -12,11 +12,8 @@ Welcome to Go and Cloud Native Leipzig #1.
 
 # Why
 
-* idea floated around
-* there were some previous meetups and events around go,
-e.g. [Ready to
-Go](https://www.meetup.com/de-DE/Softwerkskammer-Leipzig/events/245523279/)
-(04/2018), [devopenspace 2018](https://devopenspace.de/) (10/2018) and more.
+* idea floated around for some time
+* there were some previous meetups and events around Go, e.g. [Ready to Go](https://www.meetup.com/de-DE/Softwerkskammer-Leipzig/events/245523279/) (04/2018), [devopenspace 2018](https://devopenspace.de/) (10/2018) and more
 
 ----
 
@@ -36,16 +33,13 @@ Join forces, combine Go and Cloud, just start and see where this goes.
 
 # Go
 
-![From language to language matrix](static/prog_lang_matrix_eig.png)
+![From language to language matrix](static/prog_lang_matrix_eig_small.png)
 
 ----
 
 # Go
 
-> Surprisingly, (to me, at least) Go is the big winner here. There’s a ton of
-> search results for people moving from X to Go. I’m not even sure how I feel
-> about it (I have mixed feelings about Go) but I guess my infallible analysis
-> points to the inevitable conclusion that Go is something worth watching.
+> Surprisingly, (to me, at least) Go is the big winner here. There is a ton of search results for people moving from X to Go. I'm not even sure how I feel about it (I have mixed feelings about Go) but I guess my infallible analysis points to the inevitable conclusion that Go is something worth watching.
 
 ----
 
@@ -53,7 +47,7 @@ Join forces, combine Go and Cloud, just start and see where this goes.
 
 The market.
 
-![](static/statistic_id270811_cloud-computing-market-revenues-worldwide-2015-2020.png)
+![](static/statistic_id270811_cloud-computing-market-revenues-worldwide-2015-2020_small.png)
 
 From [https://www.statista.com/statistics/270811/cloud-computing-revenue-worldwide-since-2008/](https://www.statista.com/statistics/270811/cloud-computing-revenue-worldwide-since-2008/).
 
