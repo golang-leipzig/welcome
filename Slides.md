@@ -6,7 +6,7 @@ Welcome to Go and Cloud Native Leipzig #1.
 
 > [@golang_leipzig](https://twitter.com/golang_leipzig), [golangleipzig.space](https://golangleipzig.space)
 
-![Depiction of a Cloud Gopher](static/logo.svg)
+![Depiction of a Cloud Gopher](static/logo.png)
 
 ----
 
