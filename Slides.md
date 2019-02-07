@@ -53,6 +53,8 @@ The market.
 
 ![](static/statistic_id270811_cloud-computing-market-revenues-worldwide-2015-2020.png)
 
+From [https://www.statista.com/statistics/270811/cloud-computing-revenue-worldwide-since-2008/](https://www.statista.com/statistics/270811/cloud-computing-revenue-worldwide-since-2008/).
+
 ----
 
 # Today
