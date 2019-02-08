@@ -9,7 +9,7 @@ future - maybe as a lightning talk.
 
 * [Similicity is attractive](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#simplicity-is-attractive)
 * [Active community](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#active-community)
-* [The standard library](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#the-standard-library)
+* [The standard library](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#readability-and-the-standard-library)
 * [The net/http package](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#the-nethttp-package)
 * [No callbacks](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#no-callbacks)
 * [Emphasis on Composition](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#emphasis-on-composition)
@@ -34,7 +34,7 @@ better](https://en.wikipedia.org/wiki/Worse_is_better)).
 * Availability books, tutorials (e.g. justforfunc), a million developers.
 * Lots of discussions, open source project and process, no fast additions to the language.
 
-## The standard library
+## Readability and the standard library
 
 * Have you ever read through the Java standard library? Yes, no, maybe? Reading
   of Go standard library is encouraged.
