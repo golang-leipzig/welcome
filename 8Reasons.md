@@ -3,7 +3,7 @@
 Eight reasons (or bold claims), why I think, Go will be successful in the
 future - maybe as a lightning talk.
 
-> Martin Czygan, Golang and Cloud Leipzig, 2019-02-08, Basislager
+> Golang and Cloud Leipzig, 2019-02-08, Basislager
 
 ## TOC
 
