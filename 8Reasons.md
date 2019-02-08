@@ -1,20 +1,20 @@
-# Ten reasons for Go
-
-* Golang and Cloud Leipzig, 2019-02-08, Basislager
+# Eight reasons for Go
 
 Eight reasons (or bold claims), why I think, Go will be successful in the
-future.
+future - maybe as a lightning talk.
+
+> Martin Czygan, Golang and Cloud Leipzig, 2019-02-08, Basislager
 
 ## TOC
 
-* Similicity is attractive
-* Active community
-* The standard library
-* The net/http package
-* No callbacks
-* Emphasis on Composition
-* Tools welcome
-* Fun
+* [Similicity is attractive](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#simplicity-is-attractive)
+* [Active community](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#active-community)
+* [The standard library](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#the-standard-library)
+* [The net/http package](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#the-nethttp-package)
+* [No callbacks](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#no-callbacks)
+* [Emphasis on Composition](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#emphasis-on-composition)
+* [Tools welcome](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#tools-welcome)
+* [Fun](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#fun)
 
 ## Simplicity is attractive
 
