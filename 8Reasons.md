@@ -7,7 +7,7 @@ future - maybe as a lightning talk.
 
 ## TOC
 
-* [Similicity is attractive](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#simplicity-is-attractive)
+* [Simplicity is attractive](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#simplicity-is-attractive)
 * [Active community](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#active-community)
 * [Readability and the standard library](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#readability-and-the-standard-library)
 * [The net/http package](https://github.com/golang-leipzig/welcome/blob/master/8Reasons.md#the-nethttp-package)
